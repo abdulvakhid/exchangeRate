@@ -1,0 +1,11 @@
+{
+    "name": "Exchange rate",
+    "version": "1.0.0",
+    "description": "exchange rate",
+    "manifest_version": 3,
+    "author": "Abdulvakhid",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Exchange rate"
+    }
+}
