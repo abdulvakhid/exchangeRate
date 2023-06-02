@@ -1,4 +1,3 @@
-let splitData;
 let fragment = new DocumentFragment();
 let elList = document.getElementById("list");
 let time = document.getElementById("date");
